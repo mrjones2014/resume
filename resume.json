@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mat Jones",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "mat@mjones.network",
+    "phone": "(215) 527-9582",
+    "url": "https://mjones.network",
+    "summary": "I'm a software engineer, passionate about privacy, clean code, and building software that users love. I'm a strong self starter, quick learner, and love learning new things.",
+    "location": {
+      "city": "Harrisburg",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mrjones2014",
+        "url": "https://github.com/mrjones2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "1Password",
+      "position": "Senior Web Developer",
+      "url": "https://1Password.com",
+      "startDate": "2021-08-01",
+      "highlights": [
+        "Managed a small team of intermediate web developers and helped delegate work",
+        "Scheduled and executed production deployments to 1Password.com",
+        "Contributed to team members' professional development by running Engineering Learning Hour sessions"
+      ]
+    },
+    {
+      "name": "1Password",
+      "position": "Web Developer",
+      "url": "https://1Password.com",
+      "startDate": "2021-02-01",
+      "endDate": "2021-08-01",
+      "highlights": [
+        "Contributed to an internal CSS utility class framework inspired by TailwindCSS",
+        "Implemented bespoke web page designs for marketing campaigns",
+        "Managed and implemented various web services for AWS Lambda@Edge serverless runtimes",
+        "Built interactive components for the web using TypeScript",
+        "Contributed to and maintained several web forms using React and TypeScript",
+        "Helped estimate and scope work",
+        "Implemented various devoper tooling to improve developer experience"
+      ]
+    },
+    {
+      "name": "andculture",
+      "position": "Full Stack Software Engineer",
+      "url": "https://andculture.com",
+      "startDate": "2019-07-01",
+      "endDate": "2021-02-01",
+      "highlights": [
+        "Worked on a wide variety of applications for many different clients",
+        "Developed applications using the onion architecture pattern",
+        "Utilized Azure and AWS to deploy various applications and developer tooling",
+        "Worked with clients to determine requirements and estimate work",
+        "Built web APIs with .NET Core and Entity Framework Core",
+        "Built React client applications using TypeScript and SCSS",
+        "Wrote extensive unit and integration tests for front end and back end applications",
+        "Worked with a Scrum Master in an agile development workflow"
+      ]
+    },
+    {
+      "name": "Dataforma",
+      "position": "Full Stack Software Engineer",
+      "url": "https://dataforma.com",
+      "startDate": "2017-05-01",
+      "endDate": "2019-07-01",
+      "highlights": [
+        "Built server-side-rendered applications and web APIs using Spring Web Framework",
+        "Wrote extensive unit tests",
+        "Designed and implemented a module action executor architecture",
+        "Built client side applications using Vue.js"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "York College of Pennsylvania",
+      "url": "https://ycp.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Science",
+      "startDate": "2014-08-01",
+      "endDate": "2018-05-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certified Scrum Master",
+      "date": "2021-06-20",
+      "awarder": "Scrum Alliance"
+    },
+    {
+      "title": "Full Tuition Scholarship",
+      "date": "2014-08-01",
+      "awarder": "W. Dale Brougher Foundation",
+      "summary": "Full Tuition Scholarship to York College of Pennsylvania"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Rust",
+        "C#",
+        "TypeScript",
+        "JavaScript",
+        "Kotlin",
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Bash",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "AWS",
+        "Azure",
+        ".NET Core",
+        "Entity Framework Core",
+        "Hangfire",
+        "NodeJS",
+        "React",
+        "Vue",
+        "Fish",
+        "git",
+        "Makefile",
+        "Next.js",
+        "Cargo",
+        "Neovim",
+        "esbuild",
+        "webpack"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/mrjones2014/resume/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2021-11-22"
+  }
+}
+
