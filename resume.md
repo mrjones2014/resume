@@ -1,6 +1,6 @@
 <!-- PDF generated with resumey.pro -->
 # Mat Jones
-||: Email: **<mat@mjones.network>** || Phone: **215 528 9582** || GitHub: [mrjones2014](https://github.com/mrjones2014) || Website: **[mjones.network](mjones.network)** :||
+||: Email: **<mat@mjones.network>** || Phone: **215 527 9582** || GitHub: [mrjones2014](https://github.com/mrjones2014) || Website: **[mjones.network](mjones.network)** :||
 
 I'm a software engineer, passionate about privacy, clean code, and building software that users love. I'm a strong self starter, quick learner, and love learning new things.
 
