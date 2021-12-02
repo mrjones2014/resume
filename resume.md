@@ -43,7 +43,6 @@ Technology: `AWS`, `Azure`, `.NET Core`, `NodeJS`, `React`, `Vue`, `git`, `Makef
 - Built web APIs with .NET Core and Entity Framework Core
 - Built React client applications using TypeScript and SCSS
 - Wrote extensive unit and integration tests for front end and back end applications
-- Worked with a Scrum Master in an agile development workflow
 
 ### Dataforma
 ->_York, PA_
